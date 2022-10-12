@@ -1,5 +1,4 @@
-﻿using System.Linq;
-using System.Globalization;
+﻿using System.Globalization;
 Thread.CurrentThread.CurrentCulture = new CultureInfo("en-US");
 
 string[] EnterAndSplitString()
